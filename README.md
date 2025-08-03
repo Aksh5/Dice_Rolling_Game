@@ -11,4 +11,4 @@ This is a simple Python dice rolling game that:
 1. Install Python
 2. Run `dice_game.py` using any Python IDE or terminal
 
-Enjoy!
+Enjoy!!
